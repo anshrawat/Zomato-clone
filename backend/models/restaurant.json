@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "name":"KFC",
+        "city":"bangalore"
+    } ,
+    {
+        "id":2,
+        "name":"taj hotel",
+        "city":"mumbai"
+    },
+    {
+        "id":3,
+        "name":"leela palace",
+        "city":"delhi"
+    }
+]

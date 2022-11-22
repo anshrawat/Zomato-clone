@@ -1,0 +1,100 @@
+/* .background{
+    display: flex;
+	flex-direction: column;
+	padding: 0px 200px;
+	justify-content: center;
+	align-items: center;
+}
+.background::before{
+    content: "";
+	position: absolute;
+    width: 100%;
+	top: 0px;
+	left: 0px;
+	opacity: 1;
+opacity: 1;
+} */
+.header{
+    position: relative;
+    top: -30px;
+    background-color: #EB2929;
+}
+.logo{
+    position: relative;
+    left: -630px;
+    top: 1px;
+    width: 60px;
+    height: 60px;
+    background-color: #FFFFFF;
+    margin: 30px 680px;
+    border-radius: 50px;
+    justify-content: center;
+}
+.logo span{
+  position: relative;
+  top: -25px;
+  left: 10px;
+  width: 50px;
+height: 50px;
+text-align: left;
+font: normal normal 600 50px/106px Poppins;
+letter-spacing: 0px;
+color: #EB2929;
+opacity: 1;
+}
+.navigation{
+    position: relative;
+    top: -7px;
+left: 1300px;
+margin-top: -75px;
+}
+.btn1{
+    position: relative;
+    width: 43px;
+height: 23px;
+text-align: left;
+font: normal normal medium 16px/25px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+border: none;
+margin-right: 10px;
+background-color: #fcf3f300;
+}
+.btn2{
+    position: relative;
+
+text-align: center;
+font: normal normal medium 16px/25px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+background-color:#fcf3f300 ;
+width: 150px;
+height: 46px;
+border: 1px solid #FFFFFF;
+border-radius: 3px;
+opacity: 1;
+}
+
+.btnFacebook { 
+    width: 200px;
+    height:35px;  
+    border-radius: 4px;
+    background: #3b5998;
+    color:white;
+    border:0px transparent;  
+    text-align: center;
+    margin:5px;
+    display: inline-block;
+  }
+  .btnGoogle { 
+    margin:5px;
+    width: 200px;
+    height:35px;
+    border-radius: 4px;
+    background: #db3236;
+    color:white;
+    border:0px transparent;
+    text-align: center;
+  }
